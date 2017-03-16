@@ -1,0 +1,22 @@
+{
+  "name": "country-data",
+  "description": "Data about countries - like their ISO codes and currencies",
+  "main": "index.js",
+  "authors": [
+    "[object Object]"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "data",
+    "country"
+  ],
+  "homepage": "https://github.com/woozard/WooterApps",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "www/lib/vendors",
+    "test",
+    "tests"
+  ]
+}
